@@ -2147,7 +2147,7 @@ input, select, textarea {
 
 			.image.avatar img {
 				border-radius:  0.35em; /* 100%; */
-				width: 100%;
+				width: 75%; /* 100% */
 			}
 
 /* List */
@@ -2696,7 +2696,7 @@ input, select, textarea {
 /* Footer */
 
 	#footer .icons {
-		margin: 0.1em 0 0 0; /* 1em 0 0 0 */
+		margin: 0.1em 1em 0 0; /* 1em 0 0 0 */
 	}
 
 		#footer .icons a {
