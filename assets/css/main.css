@@ -2650,7 +2650,7 @@ input, select, textarea {
 		color: rgba(255, 255, 255, 0.5);
 		height: 100%;
 		left: 0;
-		padding: 8em 4em; /* 8em 4 em */
+		padding: 4em 4em; /* 8em 4 em */
 		position: fixed;
 /* 		text-align: left; /* right */ */
 		top: 0;
@@ -2689,7 +2689,7 @@ input, select, textarea {
 		}
 
 		#header .image.avatar {
-			margin: -2em 2.5em 0 -2em; /* -2em 2.5em 0 0 */
+			margin: 5em 2.5em 0 -2em; /* -2em 2.5em 0 0 */
 			width: 16.25em;
 		}
 
