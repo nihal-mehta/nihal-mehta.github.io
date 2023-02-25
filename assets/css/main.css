@@ -1794,6 +1794,7 @@ input, select, textarea {
 	}
 
 	header.major h2 {
+		margin-top: 0.1em /* my own invention */
 		font-size: 2em;
 	}
 
