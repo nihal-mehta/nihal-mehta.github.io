@@ -2697,7 +2697,7 @@ input, select, textarea {
 /* Footer */
 
 	#footer .icons {
-		margin: 0.1em 0 0 0; /* 1em 0 0 0 */
+		margin: 0.06em 0 0 0; /* 1em 0 0 0 */
 	}
 
 		#footer .icons a {
@@ -2735,7 +2735,7 @@ input, select, textarea {
 	#main {
 		margin-left: 40%; /* 35% */
 		max-width: 54em;
-		padding: 2.5em 4em 4em 4em; /* 8em 4em 4em 4em */
+		padding: 2em 4em 4em 4em; /* 8em 4em 4em 4em */
 		width: calc(100% - 40%); /* 35% */
 	}
 
