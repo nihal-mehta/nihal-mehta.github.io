@@ -3047,7 +3047,7 @@ input, select, textarea {
 		/* Header */
 
 			#header {
-				padding: 3em 3em 3em 2em;  /* 6em 3em 3em 3em*/
+				padding: 3em 0em 3em 3em;  /* 6em 3em 3em 3em*/
 				width: 30%;
 			}
 
