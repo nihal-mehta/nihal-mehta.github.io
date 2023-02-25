@@ -2627,9 +2627,9 @@ input, select, textarea {
 		-webkit-justify-content: space-between;
 		-ms-justify-content: space-between;
 		justify-content: space-between;
-		background-color: #2997fe /* #1f1815; */
+		background-color: #f7f7f7 /* #1f1815; */
 		background-attachment: scroll,								scroll;
-/* 		background-image: url("images/overlay.png"), url("../../images/color.jpg"); */
+		background-image: url("../../images/color.jpg");
 		background-position: top left,							top left;
 		background-repeat: repeat,								no-repeat;
 		background-size: auto,								145%;
