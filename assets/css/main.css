@@ -2146,6 +2146,7 @@ input, select, textarea {
 			}
 
 			.image.avatar img {
+				margin: auto; /* own equation */
 				border-radius:  0.35em; /* 100%; */
 				width: 75%; /* 100% */
 			}
