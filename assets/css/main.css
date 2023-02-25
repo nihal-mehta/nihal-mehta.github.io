@@ -167,7 +167,7 @@ input, select, textarea {
 	h4 {
 		font-size: 1.1em;
 		line-height: 1.1em;
-		margin-bottom: 1em; /* 0.1em acc. to my og invention*/
+		margin-bottom: 0.1em; /* 0.1em acc. to my og invention*/
 	}
 
 	h5 {
