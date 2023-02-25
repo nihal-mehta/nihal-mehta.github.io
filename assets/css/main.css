@@ -2646,7 +2646,7 @@ input, select, textarea {
 		background-attachment: scroll,								scroll;
 		background-image: url("../../images/color.jpg"); /* url("images/overlay.png"), */
 		background-position: top left, top left;
-		background-repeat: repeat, repeat; /* repeat, no-repeat; */
+		background-repeat: repeat, no-repeat; /* repeat, no-repeat; */
 		background-size: auto, 145%; /*  auto, 145%; */
 		color: rgba(255, 255, 255, 0.5);
 		height: 100%;
@@ -2655,7 +2655,7 @@ input, select, textarea {
 		position: fixed;
 /* 		text-align: left; /* right */ */
 		top: 0;
-		width: 33%;  /* 35% */
+		width: 35%;  /* 35% */
 	}
 
 		#header > * {
