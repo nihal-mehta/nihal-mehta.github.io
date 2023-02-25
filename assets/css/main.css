@@ -2639,7 +2639,7 @@ input, select, textarea {
 		color: rgba(255, 255, 255, 0.5);
 		height: 100%;
 		left: 0;
-		padding: 8em 4em; /* 8em 4 em */
+		padding: 2em 4em; /* 8em 4 em */
 		position: fixed;
 		text-align: left; /* right */
 		top: 0;
