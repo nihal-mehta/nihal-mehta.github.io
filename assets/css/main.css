@@ -3035,7 +3035,7 @@ input, select, textarea {
 		/* Header */
 
 			#header {
-				padding: 6em 3em 3em 3em;
+				padding: 1em 3em 3em 3em;  /* 6em 3em 3em 3em*/
 				width: 30%;
 			}
 
@@ -3095,7 +3095,7 @@ input, select, textarea {
 				background-position: top left, center center;
 				background-size: auto,		cover;
 				left: auto;
-				padding: 6em 4em;
+				padding: 6em 4em; /* 6em 4em */
 				position: relative;
 				text-align: center;
 				top: auto;
@@ -3179,6 +3179,7 @@ input, select, textarea {
 			}
 
 			header.major h2 {
+				margin-top: 0.1em;
 				font-size: 1.35em;
 			}
 
