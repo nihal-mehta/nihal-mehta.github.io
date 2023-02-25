@@ -2435,7 +2435,41 @@ input, select, textarea {
 	input[type="submit"],
 	input[type="reset"],
 	input[type="button"],
-	.button {
+.button {
+  border: none;
+  color: white;
+  padding: 6px 12px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  transition-duration: 0.4s;
+  cursor: pointer;
+}
+
+.button1 {
+  background-color: white; 
+  color: black; 
+  border: 2px solid #4CAF50;
+}
+
+.button1:hover {
+  background-color: #4CAF50;
+  color: white;
+}
+
+.button2 {
+  background-color: white; 
+  color: black; 
+  border: 2px solid #008CBA;
+}
+
+.button2:hover {
+  background-color: #008CBA;
+  color: white;
+}
+/*  	.button {
 		-moz-appearance: none;
 		-webkit-appearance: none;
 		-ms-appearance: none;
@@ -2451,17 +2485,17 @@ input, select, textarea {
 		cursor: pointer;
 		display: inline-block;
 		font-weight: 400;
-		height: 2.15em; /*  prior 3.15em em */
+		height: 2.15em; /*  prior 3.15em em 
 		height: calc(2.75em + 6px);
-		line-height: 1.75em; /*  prior 2.75em em */
-		min-width: 5em; /*  prior 10 em */
-		padding: 0 0em;  /*  prior 0 1.5em */
+		line-height: 1.75em; /*  prior 2.75em em 
+		min-width: 5em; /*  prior 10 em 
+		padding: 0 0em;  /*  prior 0 1.5em 
 		text-align: center;
 		text-decoration: none;
-		white-space: nowrap;
-	}
+		white-space: nowrap; 
+} */
 
-		input[type="submit"]:hover,
+/*		input[type="submit"]:hover,
 		input[type="reset"]:hover,
 		input[type="button"]:hover,
 		.button:hover {
@@ -2545,12 +2579,12 @@ input, select, textarea {
 		input[type="button"].disabled,
 		input[type="button"]:disabled,
 		.button.disabled,
-		.button:disabled {
+ 		.button:disabled {
 			background-color: #e7e7e7 !important;
 			border-color: #e7e7e7 !important;
 			color: #b2b2b2 !important;
 			cursor: default;
-		}
+		} */ 
 
 /* Work Item */
 
