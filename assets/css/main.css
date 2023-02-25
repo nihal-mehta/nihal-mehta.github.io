@@ -2473,6 +2473,17 @@ input, select, textarea {
   background-color: #008CBA;
   color: white;
 }
+
+.button3 {
+  background-color: white; 
+  color: black; 
+  border: 2px solid #FF5733;
+}
+
+.button3:hover {
+  background-color: #FF5733;
+  color: white;
+}
 /*  	.button {
 		-moz-appearance: none;
 		-webkit-appearance: none;
