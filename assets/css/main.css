@@ -2477,11 +2477,11 @@ input, select, textarea {
 .button3 {
   background-color: white; 
   color: black; 
-  border: 2px solid #FF5733;
+  border: 2px solid #E74C3C;
 }
 
 .button3:hover {
-  background-color: #FF5733;
+  background-color: #E74C3C;
   color: white;
 }
 /*  	.button {
