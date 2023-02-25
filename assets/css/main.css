@@ -2655,7 +2655,7 @@ input, select, textarea {
 		position: fixed;
 /* 		text-align: left; /* right */ */
 		top: 0;
-		width: 33%;
+		width: 33%;  /* 35% */
 	}
 
 		#header > * {
