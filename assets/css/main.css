@@ -2648,7 +2648,7 @@ input, select, textarea {
 		background-image: url("../../images/color.jpg");  /* url("images/overlay.png"), url("../../images/color.jpg"); no-repeat center;*/
 		background-position: center, center; /* top left, top left; */
  		background-repeat: repeat, no-repeat; /* repeat, no-repeat; */
-		background-size: contain /* 100%, 200%; */ /*  auto, 145%; */
+		background-size: auto, auto; /* 100%, 200%; */ /*  auto, 145%; */
 		color: rgba(255, 255, 255, 0.5);
 		height: 100%;
 		left: 0;
@@ -3107,7 +3107,7 @@ input, select, textarea {
 			#header {
 				background-attachment: scroll;
 				background-position: top left, center center;
-				background-size: contain; /* auto, cover; */
+				background-size: auto, cover; /* auto, cover; */
 				left: auto;
 				padding: 6em 4em; /* 6em 4em */
 				position: relative;
