@@ -2646,14 +2646,14 @@ input, select, textarea {
 		background-color: #1f1815 /* #1f1815; */
 		background-attachment: scroll,								scroll;
 		background-image: url("../../images/color.jpg");  /* url("images/overlay.png"), url("../../images/color.jpg"); no-repeat center;*/
-		background-position: bottom center; /* top left, top left; */
+		background-position: center top; /* top left, top left; */
  		background-repeat: repeat, no-repeat; /* repeat, no-repeat; */
 		background-size:  cover; /* cover or 100%, 200%; or auto, 145%; */ 
 		color: rgba(255, 255, 255, 0.5);
 		height: 100%; /* 100% */
 		left: 0;
 		padding: 2em 4em; /* 8em 4 em */
-		position: fixed;
+		position: relative; /* fixed; */
 /* 		text-align: left; /* right */ */
 		top: 0;
 		width: 35%;  /* 35% */
