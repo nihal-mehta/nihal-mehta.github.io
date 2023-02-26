@@ -2645,7 +2645,7 @@ input, select, textarea {
 		justify-content: space-between;
 		background-color: #1f1815 /* #1f1815; */
 		background-attachment: scroll,								scroll;
-		background-image: url("../../images/color.jpg");  /* url("images/overlay.png"), url("../../images/color.jpg"); no-repeat center;*/
+		background-image: url("../../images/color.jpg") 50% 50% / 100% no-repeat fixed;;  /* url("images/overlay.png"), url("../../images/color.jpg"); no-repeat center;*/
 		background-position: center, center; /* top left, top left; */
  		background-repeat: repeat, no-repeat; /* repeat, no-repeat; */
 		background-size: 50%, 100%; /* 100%, 200%; */ /*  auto, 145%; */
