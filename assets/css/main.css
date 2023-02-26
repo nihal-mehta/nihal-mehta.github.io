@@ -48,6 +48,7 @@ blockquote, q {
 	}
 
 .vertLine {
+	margin-right: 2em;
     border-right: solid 2px #efefef;    /* line 1 pixel width, length of "Some content" */
 }
 
