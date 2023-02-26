@@ -47,6 +47,17 @@ blockquote, q {
 		content: none;
 	}
 
+ul.interests li:first-child {
+	border-top: 0;
+	padding-top: 0;
+}
+
+
+ul.interests li {
+	margin: 1px 0;
+}
+
+
 table {
 	border-collapse: collapse;
 	border-spacing: 0;
