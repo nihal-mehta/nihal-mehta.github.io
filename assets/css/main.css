@@ -50,11 +50,13 @@ blockquote, q {
 ul.interests li:first-child {
 	border-top: 0;
 	padding-top: 0;
+	margin-top: -1em;
 }
 
 
 ul.interests li {
 	margin: 1px 0;
+	text-color: #FFFFFF;
 }
 
 
