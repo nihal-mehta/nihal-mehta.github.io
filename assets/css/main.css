@@ -2669,7 +2669,6 @@ input, select, textarea {
 		}
 
 		#header > .inner {
-			 border-right: solid 2px #efefef;
 			-moz-flex-grow: 1;
 			-webkit-flex-grow: 1;
 			-ms-flex-grow: 1;
