@@ -2648,7 +2648,7 @@ input, select, textarea {
 		background-image: url("../../images/color.jpg");  /* url("images/overlay.png"), url("../../images/color.jpg"); no-repeat center;*/
 		background-position: center, center; /* top left, top left; */
  		background-repeat: repeat, no-repeat; /* repeat, no-repeat; */
-		background-size: auto, 100%; /* 100%, 200%; */ /*  auto, 145%; */
+		background-size: 50%, 100%; /* 100%, 200%; */ /*  auto, 145%; */
 		color: rgba(255, 255, 255, 0.5);
 		height: 100%;
 		left: 0;
