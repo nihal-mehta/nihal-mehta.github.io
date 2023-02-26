@@ -2626,6 +2626,14 @@ input, select, textarea {
 
 /* Header */
 
+	#header .icons {
+		margin: -1.0em 0 0 -0.2em; /* 1em 0 0 0 */
+	}
+
+		#footer .icons a {
+			color: rgba(255, 255, 255, 0.8); /* 355, 355, 355, 0.4 */
+		}
+
 	#header {
 		display: -moz-flex;
 		display: -webkit-flex;
