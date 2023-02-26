@@ -2703,7 +2703,7 @@ input, select, textarea {
 	}
 
 		#footer .icons a {
-			color: rgba(5, 5, 5, 0.8); /* 355, 355, 355, 0.4 */
+			color: rgba(255, 255, 255, 0.8); /* 355, 355, 355, 0.4 */
 		}
 
 	#footer .copyright {
