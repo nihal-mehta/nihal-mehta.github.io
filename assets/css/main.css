@@ -47,6 +47,10 @@ blockquote, q {
 		content: none;
 	}
 
+.vertLine {
+    border-right:1px #ff0000;    /* line 1 pixel width, length of "Some content" */
+}
+
 table {
 	border-collapse: collapse;
 	border-spacing: 0;
