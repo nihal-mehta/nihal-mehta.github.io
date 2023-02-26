@@ -2647,13 +2647,14 @@ input, select, textarea {
 		-webkit-justify-content: space-between;
 		-ms-justify-content: space-between;
 		justify-content: space-between;
-		background-color: #1f1815 /* #1f1815; */
-		background-attachment: scroll,scroll;
-		background-image: url("../../images/color.jpg");  /* url("images/overlay.png"), url("../../images/color.jpg"); no-repeat center; */
-		background-position: bottom center, bottom center; /* top left, top left; */
- 		background-repeat: no-repeat, no-repeat; /* repeat, no-repeat; */
-		background-size:  cover; /* cover or 100%, 200%; or auto, 145%; */ 
-		color: rgba(255, 255, 255, 0.5);
+		background: #de4726;
+/* 		background-color: #1f1815 /* #1f1815; */ */
+/* 		background-attachment: scroll,scroll; */
+/* 		background-image: url("../../images/color.jpg");  /* url("images/overlay.png"), url("../../images/color.jpg"); no-repeat center; */ */
+/* 		background-position: bottom center, bottom center; /* top left, top left; */ */
+/*  		background-repeat: no-repeat, no-repeat; /* repeat, no-repeat; */ */
+/* 		background-size:  cover; /* cover or 100%, 200%; or auto, 145%; */  */
+		color: #de4726; /* rgba(255, 255, 255, 0.5); */
 		height: 100%; /* 100% */
 		left: 0;
 		padding: 2em 4em; /* 8em 4 em */
