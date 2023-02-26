@@ -2647,8 +2647,8 @@ input, select, textarea {
 		background-attachment: scroll,								scroll;
 		background-image: url("../../images/color.jpg");  /* url("images/overlay.png"), url("../../images/color.jpg"); no-repeat center;*/
 		background-position: center, center; /* top left, top left; */
- 		background-repeat: no-repeat, no-repeat; /* repeat, no-repeat; */
-		background-size: 100%, 200%; /*  auto, 145%; */
+ 		background-repeat: repeat, no-repeat; /* repeat, no-repeat; */
+		background-size: contain /* 100%, 200%; */ /*  auto, 145%; */
 		color: rgba(255, 255, 255, 0.5);
 		height: 100%;
 		left: 0;
