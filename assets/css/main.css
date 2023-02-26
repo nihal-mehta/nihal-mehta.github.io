@@ -2646,7 +2646,7 @@ input, select, textarea {
 		background-color: #1f1815 /* #1f1815; */
 		background-attachment: scroll,								scroll;
 		background-image: url("../../images/color.jpg");  /* url("images/overlay.png"), url("../../images/color.jpg"); no-repeat center;*/
-		background-position: bottom center, bottom center; /* top left, top left; */
+		background-position: bottom center; /* top left, top left; */
  		background-repeat: repeat, no-repeat; /* repeat, no-repeat; */
 		background-size:  cover; /* cover or 100%, 200%; or auto, 145%; */ 
 		color: rgba(255, 255, 255, 0.5);
