@@ -2664,6 +2664,7 @@ input, select, textarea {
 		background-position: bottom center, bottom center; /* top left, top left; */
  		background-repeat: no-repeat, no-repeat; /* repeat, no-repeat; */
 		background-size:  cover; /* cover or 100%, 200%; or auto, 145%;  */
+		opacity: 0.5
 		color: #de4726; /* rgba(255, 255, 255, 0.5); */
 		height: 100%; /* 100% */
 		left: 0;
