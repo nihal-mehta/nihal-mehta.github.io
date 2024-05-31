@@ -293,6 +293,10 @@ input, select, textarea {
 
 		@media screen and (max-width: 980px) {
 
+			.inner p {
+		    padding: 0 1.5em; /* NEW. Increase padding for smaller screens */
+		}
+
 			.container {
 				width: 100% !important;
 				max-width: 100% !important;
