@@ -557,6 +557,11 @@ input, select, textarea {
 
 		@media screen and (max-width: 1800px) {
 
+			.inner p {
+			    padding: 0 1.5em; /* NEW. Increase padding for smaller screens */
+			}
+
+
 			.row {
 				display: flex;
 				flex-wrap: wrap;
@@ -1047,6 +1052,10 @@ input, select, textarea {
 
 		@media screen and (max-width: 980px) {
 
+			.inner p {
+			    padding: 0 1.5em; /* NEW. Increase padding for smaller screens */
+			}
+
 			.row {
 				display: flex;
 				flex-wrap: wrap;
@@ -1291,6 +1300,10 @@ input, select, textarea {
 		}
 
 		@media screen and (max-width: 736px) {
+
+			.inner p {
+			    padding: 0 1.5em; /* NEW. Increase padding for smaller screens */
+			}
 
 			.row {
 				display: flex;
