@@ -3293,7 +3293,7 @@ input, select, textarea {
             padding: 1em 0; /* Vertical padding */
             text-align: center;
             font-size: 2em; /* Larger font size */
-            margin-top: 1em;
+            margin: 2em 0; /* Margin to create space above and below the banner */
             font-weight: bold; /* Bold text */
 	    border-top: 2px solid #efefef; /* Grey line above the banner */
 	    border-bottom: 2px solid #efefef; /* Grey line below the banner */	
