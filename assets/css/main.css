@@ -3288,11 +3288,13 @@ input, select, textarea {
 
 	}
 
-.banner {
-    padding: 1em 0; /* Vertical padding */
-    text-align: center;
-    font-size: 2em; /* Larger font size */
-    margin-top: 1em;
-    font-weight: bold; /* Bold text */
-    color: #000; /* Black text color */
-}
+        .banner {
+/*             background-color: #000000; /* Light grey background */ */
+            padding: 1em 0; /* Vertical padding */
+            text-align: center;
+            font-size: 2em; /* Larger font size */
+            margin-top: 1em;
+            font-weight: bold; /* Bold text */
+/*             border-bottom: 2px solid #041E42; */
+            color: #000; /* Black text color */
+        }
