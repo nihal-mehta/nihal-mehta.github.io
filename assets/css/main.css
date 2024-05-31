@@ -3291,8 +3291,8 @@ input, select, textarea {
 
         .banner {
 /*             background-color: #000000; /* Light grey background */ */
-/*             padding: 1em 0; /* Vertical padding */ */
-	    padding-top: 2em; /* Extra padding at the top */
+            padding: 1em 0; /* Vertical padding */
+	    padding-top: 1em; /* Extra padding at the top */
     	    padding-bottom: 1em; /* Extra padding at the bottom */
             text-align: center;
             font-size: 2em; /* Larger font size */
