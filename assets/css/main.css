@@ -3314,13 +3314,13 @@ input, select, textarea {
         .banner {
 /*             background-color: #000000; /* Light grey background */ */
             padding: 1em 0; /* Vertical padding */
-	    padding-top: 0em; /* Extra padding at the top 1em */
-    	    padding-bottom: 0em; /* Extra padding at the bottom */
+	    padding-top: 1em; /* Extra padding at the top 1em */
+    	    padding-bottom: 1em; /* Extra padding at the bottom */
             text-align: center;
             font-size: 2em; /* Larger font size */
-            margin: 0em 0; /* Margin to create space above and below the banner */
+            margin: 1em; /* Margin to create space above and below the banner */
             font-weight: bold; /* Bold text */
-/* 	    border-top: 2px solid #efefef; /* Grey line above the banner */ */
+	    border-top: 2px solid #efefef; /* Grey line above the banner */
 	    border-bottom: 2px solid #efefef; /* Grey line below the banner */	
             color: #000; /* Black text color */
         }
