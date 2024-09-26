@@ -3311,6 +3311,29 @@ input, select, textarea {
 
 	}
 
+	/* Custom styles for job market paragraph */
+	/* Global styles for all paragraphs */
+	p {
+	    font-size: 1.25rem; /* Default size */
+	    color: #a2a2a2; /* Adjust color if needed */
+	    line-height: 1.75em; /* Line height for readability */
+	    margin: 0 0 2em 0; /* Default margin */
+	}
+	
+	/* Increase font size for larger screens */
+	@media screen and (min-width: 768px) {
+	    p {
+	        font-size: 1.5rem; /* Larger size for tablets and small monitors */
+	    }
+	}
+	
+	@media screen and (min-width: 1200px) {
+	    p {
+	        font-size: 1.75rem; /* Even larger for vertical monitors and large screens */
+	    }
+	}
+
+
         .banner {
 /*             background-color: #000000; /* Light grey background */ */
             padding: 1em 0; /* Vertical padding */
