@@ -3075,7 +3075,7 @@ input, select, textarea {
 		/* Basic */
 
 			body, input, select, textarea {
-				font-size: 12pt;
+				font-size: 14pt; /* used to be 12pt earlier */
 			}
 
 	}
