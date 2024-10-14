@@ -322,11 +322,14 @@ input, select, textarea {
 /* Row */
 
 	.paper-link {
-	    color: inherit; /* Inherit the color from the parent element */
-	    text-decoration: none; /* Remove underline */
+	    color: inherit !important; /* Inherit color from the surrounding text */
+	    border-bottom: none !important; /* Remove underline */
+	    text-decoration: none !important; /* Ensure no underline */
 	}
+	
 	.paper-link:hover {
-	    color: #bf6142; /* Change color on hover */
+	    color: #bf6142 !important; /* Apply hover color */
+	    text-decoration: none !important; /* Ensure no underline on hover */
 	}
 
 
