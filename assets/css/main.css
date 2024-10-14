@@ -53,6 +53,8 @@ blockquote, q {
 		content: none;
 	}
 
+
+
 ul.interests li:first-child {
 	border-top: 0;
 	padding-top: 0;
@@ -318,6 +320,16 @@ input, select, textarea {
 		}
 
 /* Row */
+
+	.paper-link {
+	    color: black;
+	    text-decoration: none;
+	}
+
+	.paper-link:hover {
+	    color: #bf6142;
+	}
+
 
 	.row {
 		display: flex;
