@@ -347,7 +347,7 @@ input, select, textarea {
 
 	.button-container {
 	    margin-top: 0.5em; /* Adjust this value to control spacing */
-/* 	    margin-bottom: -0.5em;  /* Ensures no extra space below */ */
+	    margin-bottom: 0.5em;  /* Ensures no extra space below */
 	}
 	
 	.draft-button {
