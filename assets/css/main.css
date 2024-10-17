@@ -362,6 +362,12 @@ input, select, textarea {
 	    border: none;
 	}
 
+	.draft-button.disabled {
+	    pointer-events: none; /* Disables clicks */
+	/*     opacity: 0.8; /* Optional: Visually indicate it's disabled */ */
+	    cursor: default; /* Change cursor to indicate it's non-clickable */
+	}
+
 
 	.row {
 		display: flex;
