@@ -323,7 +323,19 @@ input, select, textarea {
 
 	.paper-link {
 	    color: inherit !important; /* Inherit color from the surrounding text */
-	    border-bottom: dotted 1px; !important; /* Remove underline */
+	    border-bottom: none !important; /* Remove underline dotted 1px; */
+	    text-decoration: inherit !important; /* Ensure no underline */
+	}
+	
+	.paper-link:hover {
+	    border-bottom-color: transparent;
+	    color: #ba6642 !important; /* Apply hover color */
+	    text-decoration: inherit !important; /* Ensure no underline on hover */
+	}
+
+	.author-link {
+	    color: inherit !important; /* Inherit color from the surrounding text */
+	    border-bottom: dotted 1px; !important; /* Remove underline dotted 1px; */
 	    text-decoration: inherit !important; /* Ensure no underline */
 	}
 	
