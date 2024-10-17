@@ -329,7 +329,7 @@ input, select, textarea {
 	
 	.paper-link:hover {
 	    border-bottom-color: transparent;
-	    color: #041e41 !important; /* Apply hover color */
+	    color: #ba6642 !important; /* Apply hover color */
 	    text-decoration: inherit !important; /* Ensure no underline on hover */
 	}
 
