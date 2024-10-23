@@ -2727,6 +2727,16 @@ input, select, textarea {
     color: rgba(255, 255, 255, 1); /* Fully opaque white on hover */
 }
 
+@media screen and (max-width: 600px) {
+    h2 {
+        font-size: 1.5em; /* Adjust font size for smaller screens */
+    }
+    .icons li {
+        margin-left: 0.25em; /* Reduce spacing between icons */
+    }
+}
+
+
 
 	#header {
 		display: -moz-flex;
