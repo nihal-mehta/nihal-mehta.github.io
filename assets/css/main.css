@@ -2235,7 +2235,7 @@ input, select, textarea {
 			.image.avatar img {
 				margin: auto; /* own equation */
 				border-radius:  50%; /* 100%; */
-				width: 80%; /* 100% */
+				width: 60%; /* 80% before. also 100% */
 			}
 
 /* List */
