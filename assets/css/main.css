@@ -2225,7 +2225,7 @@ input, select, textarea {
 			}
 
 		.image.avatar {
-			border-radius: 0; /* 50%;, 100%; */
+			border-radius: 50%; /* 100%; */
 		}
 
 			.image.avatar:before {
@@ -2234,7 +2234,7 @@ input, select, textarea {
 
 			.image.avatar img {
 				margin: auto; /* own equation */
-				border-radius:  0; /* 50%;, 100%; */
+				border-radius:  50%; /* 100%; */
 				width: 60%; /* 80% before. also 100% */
 			}
 
