@@ -2719,12 +2719,12 @@ input, select, textarea {
 }
 
 #header .icons a {
-    color: rgba(255, 255, 255, 0.8); /* White with 80% opacity */
+    color: rgba(0, 0, 0, 0.8); /* Black with 80% opacity */ /* White with 80% opacity */
     transition: color 0.3s ease; /* Smooth transition on hover */
 }
 
 #header .icons a:hover {
-    color: rgba(255, 255, 255, 1); /* Fully opaque white on hover */
+    color: rgba(178, 34, 34, 0.8); /* Brick red with 80% opacity */ /* Fully opaque white on hover */
 }
 
 @media screen and (max-width: 600px) {
